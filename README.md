@@ -22,7 +22,7 @@ In order to complete the assignment, you will need to do the following:
 
 *We will discuss on Monday how to create a new repository and upload it back to GitHub.*
 
-
+---
 
 The grading criteria will be as follows:
 
