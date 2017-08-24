@@ -20,7 +20,9 @@ In order to complete the assignment, you will need to do the following:
 * Download [git](https://git-scm.com/downloads) or [GitHub](https://desktop.github.com/) desktop
 * Download or clone the [assignment template](https://github.com/ILS-Z399/01-Hello-Class)
 
-We will discuss on Monday how to create a new repository and upload it back to GitHub.
+*We will discuss on Monday how to create a new repository and upload it back to GitHub.*
+
+
 
 The grading criteria will be as follows:
 
