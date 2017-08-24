@@ -18,9 +18,9 @@ In order to complete the assignment, you will need to do the following:
 * Download and install [Python 3](https://www.python.org/downloads/).
 * Choose and install an IDE (optional, [pyCharm](https://www.jetbrains.com/pycharm/) is an okay choice or [Sublime Text](http://www.sublimetext.com/))
 * Download [git](https://git-scm.com/downloads) or [GitHub](https://desktop.github.com/) desktop
-* Download or clone the [assignment template](https://github.com/ILS-Z399/01-Hello-Class)
+* Take a look at the [assignment template](https://github.com/ILS-Z399/01-Hello-Class) on Github
 
-*We will discuss on Monday how to create a new repository and upload it back to GitHub.*
+*We will discuss on Monday how to fork the repository and upload it back to GitHub.*
 
 ---
 
